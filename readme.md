@@ -6,7 +6,7 @@
      /          \      
     /            \     
    /   OWLJACK    \                                
-  /________________\                          OWLJACK - Your Clickjacking Tool         
+  /________________\                          OWLJACK - Robust Clickjacking Testing Tool         
     \   /\  /\   /     
      ) ( o  o ) (      
     (    (_)    )      
