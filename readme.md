@@ -20,7 +20,7 @@
 - Scans multiple URLs from a text file.
 - Detects missing `X-Frame-Options` headers (a sign of vulnerability).
 - Simple and easy-to-use command-line interface.
-- Stylish owl-themed ASCII art banner.
+
 
 ## Requirements
 - Go Programming Language (Version 1.16+)
