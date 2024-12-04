@@ -1,7 +1,7 @@
 # OWLJACK
 
 **OWLJACK** is a **Clickjacking Testing Tool** designed to check if websites are vulnerable to clickjacking attacks by scanning for the absence of the `X-Frame-Options` header.
-
+```
        ________        
      /          \      
     /            \     
@@ -11,7 +11,8 @@
      ) ( o  o ) (      
     (    (_)    )      
      \          /       
-      \________/       
+      \________/
+```
    OWLJACK - Your Clickjacking Tool
 
 
