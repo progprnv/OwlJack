@@ -5,16 +5,15 @@
        ________        
      /          \      
     /            \     
-   /   OWLJACK    \    
-  /________________\   
+   /   OWLJACK    \                                
+  /________________\                          OWLJACK - Your Clickjacking Tool         
     \   /\  /\   /     
      ) ( o  o ) (      
     (    (_)    )      
      \          /       
       \________/
 ```
-   OWLJACK - Your Clickjacking Tool
-
+ 
 
 
 ## Features
