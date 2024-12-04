@@ -8,7 +8,7 @@
    /   OWLJACK    \                                
   /________________\                          OWLJACK - Robust Clickjacking Testing Tool         
     \   /\  /\   /     
-     ) ( o  o ) (      
+     ) ( o  o ) (                             Made by @progprnv
     (    (_)    )      
      \          /       
       \________/
