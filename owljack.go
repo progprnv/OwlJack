@@ -17,9 +17,9 @@ func DisplayBanner() {
    /   OWLJACK    \    
   /________________\   
     \   /\  /\   /     
-     ) ( o  o ) (      
-    (    (_)    )      
-     \          /       
+     ) ( •  • ) (      
+    \    ----    /     
+     \    ^^    /       
       \________/       
    OWLJACK - Your Clickjacking Tool
 `
